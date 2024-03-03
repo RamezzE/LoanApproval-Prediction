@@ -1,7 +1,8 @@
 # Loan Approval Prediction
 
 This is a binary classification machine learning project focused on determining the best model for predicting loan acceptance, coded in python.
-Associated research paper can be found [here](/paper.pdf)
+
+The associated research paper can be found [here](/paper.pdf)
 ## Dataset
 
 The dataset used for this project is the [Loan Prediction Dataset](https://www.kaggle.com/datasets/ninzaami/loan-predication) from Kaggle. It consists of 13 columns and 614 rows, with the following features:
